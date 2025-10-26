@@ -1,4 +1,4 @@
-# ⚡ Pokédex
+# ⚡ [Pokédex](https://talha-uk.github.io/pokedex/)
 
 Modern ve interaktif bir Pokédex uygulaması. Tüm Pokemon'ları keşfedin, türlerine göre filtreleyin ve detaylı bilgilerini inceleyin.
 
@@ -194,9 +194,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **GitHub**: [@kullaniciadi](https://github.com/kullaniciadi)
-- **Email**: email@example.com
-- **Website**: [website.com](https://website.com)
+- **GitHub**: [@talha-uk](https://github.com/talha-uk)
+- **Email**: talhaubeyd51@gmail.com
+- **Website**: [website.com](https://talha-uk.github.io/pokedex/)
 
 ---
 
