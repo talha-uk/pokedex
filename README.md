@@ -196,7 +196,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 - **GitHub**: [@talha-uk](https://github.com/talha-uk)
 - **Email**: talhaubeyd51@gmail.com
-- **Website**: [website.com](https://talha-uk.github.io/pokedex/)
+- **Website**: [Canlı Site](https://talha-uk.github.io/pokedex/)
 
 ---
 
